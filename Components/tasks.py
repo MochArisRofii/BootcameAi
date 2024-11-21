@@ -19,3 +19,4 @@ class Tasks:
                 expected_output="Blog yang diinginkan",
                 agent=Agents().penulis(),
             )
+            
